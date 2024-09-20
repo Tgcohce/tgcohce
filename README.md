@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JS, TS, Rust, ML Algorithms**
 
-- 👨‍💻 All of my projects are available at [github.com/tgcohce](github.com/tgcohce)
+- 👨‍💻 Some of my projects are available at [github.com/tgcohce](github.com/tgcohce)
 
 - 💬 Ask me about **Data Science, Cybersecurity, Web3 Development**
 
