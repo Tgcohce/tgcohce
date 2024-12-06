@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tgcohce" alt="tgcohce" /></a> </p>
 
-- 🌱 I’m currently learning **JS, TS, Rust, ML Algorithms**
+- 🌱 I’m currently learning **GoLang, Rust, ML Models**
 
 - 👨‍💻 Some of my projects are available at [github.com/tgcohce](github.com/tgcohce)
 
