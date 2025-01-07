@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tolga</h1>
-<h3 align="center">A Software Developer from Turkiye, studying in Canada</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tgcohce" alt="tgcohce" /></a> </p>
 
@@ -10,6 +9,8 @@
 - 💬 Ask me about **Data Science, Cybersecurity, Web3 Development**
 
 - 📫 How to reach me **tolgacohce@gmail.com**
+  
+- 🏆 3x Hackathon Winner
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
