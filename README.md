@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **tolgacohce@gmail.com**
   
-- 🏆 3x Hackathon Winner
+- 🏆 6x Hackathon Winner
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
