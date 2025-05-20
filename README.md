@@ -2,6 +2,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tgcohce" alt="tgcohce" /></a> </p>
 
+- 🏆 7x Hackathon Winner
+
 - 🌱 I’m currently learning **GoLang, Rust, ML Models**
 
 - 👨‍💻 Some of my projects are available at [github.com/tgcohce](github.com/tgcohce)
@@ -10,7 +12,6 @@
 
 - 📫 How to reach me **tolgacohce@gmail.com**
   
-- 🏆 6x Hackathon Winner
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
