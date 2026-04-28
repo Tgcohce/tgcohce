@@ -1,14 +1,10 @@
-<h1 align="center">Hi 👋, I'm Tolga</h1>
+<h1 align="center">Hi I'm Tolga</h1>
 
-- 🏆 11x Hackathon Winner
+- 🏆 12x Hackathon Winner
 
-- 🌱 I’m currently learning **GoLang, Rust, ML Models**
-
-- 👨‍💻 Some of my projects are available at [github.com/tgcohce](github.com/tgcohce)
+- Founding Engineer at totalis.trade
 
 - 💬 Ask me about **Data Science, Cybersecurity, Web3 Development**
-
-- 📫 How to reach me **tolgacohce@gmail.com**
   
 
 <h3 align="left">Connect with me:</h3>
