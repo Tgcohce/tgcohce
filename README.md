@@ -4,10 +4,11 @@
 
 - Founding Engineer at totalis.trade
 
-- Shipping stuff I find cool
+- Mostly ship stuff around Web3, Cybersecurity, tooling, anything else I find cool 
   
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tgcohce&theme=dark" alt="tgcohce" /></p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tgcohce&theme=dark" alt="tgcohce" />
+</p>
 
