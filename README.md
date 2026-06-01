@@ -1,10 +1,10 @@
 <h1 align="center">Hi I'm Tolga</h1>
 
-- 🏆 12x Hackathon Winner
+- 12x Hackathon Winner
 
 - Founding Engineer at totalis.trade
 
-- 💬 Ask me about **Data Science, Cybersecurity, Web3 Development**
+- Shipping stuff I find cool
   
 
 <h3 align="left">Connect with me:</h3>
